@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "The Free Bronx Leaf — The Bronx's free cannabis newspaper",
+      "hasCanvas": false,
+      "bodyTextLen": 4284,
+      "bodyTextHash": "4328a87b034e557398bbc36ae9d7993a5fc273a051a3e826cb1c7f03b1cdeed5",
+      "bodyTextPrefix": "All Sections Subscribe 79° Friday, September 11th 2026 12:21:27 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "The Free Bronx Leaf — The Bronx's free cannabis newspaper",
+      "hasCanvas": false,
+      "bodyTextLen": 3328,
+      "bodyTextHash": "ba44efe372a848591c1af24b6002e6881d92e68af12c768531b0dbb2e4290047",
+      "bodyTextPrefix": "All Sections Subscribe 79° Bronx, NY Friday, September 11th 2026",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

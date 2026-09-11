@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "The Free Bronx Leaf — The Bronx's free cannabis newspaper",
+      "hasCanvas": false,
+      "bodyTextLen": 5161,
+      "bodyTextHash": "0559b6a7455e7d04e7eb02fb564f574bde1aa1f22976cec45697c82c57c1a20b",
+      "bodyTextPrefix": "All Sections Subscribe 82° Bronx, NY Clear · Bronx, NY THE FREE ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "The Free Bronx Leaf — The Bronx's free cannabis newspaper",
+      "hasCanvas": false,
+      "bodyTextLen": 4238,
+      "bodyTextHash": "ae697ffbd57685a0a0d911bc3f412459442cac8693108210e9da65622e0b77b6",
+      "bodyTextPrefix": "All Sections Subscribe 82° Bronx, NY THE FREE BRONX LEAF TRENDIN",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
